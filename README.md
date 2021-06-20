@@ -127,29 +127,13 @@ License
 This README file is distributed under the terms of the [Creative Commons 1.0 Universal license (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).  The license applies to this file and other files in the [GitHub repository](http://github.com/mhucka/readmine) hosting this file. This does _not_ mean that you, as a user of this README file in your software project, must also use CC0 license!  You may use any license for your work that you see fit.
 
 
-Authors and history
----------------------------
 
-In this section, list the authors and contributors to your software project.  (The original author of this file is [Mike Hucka](http://www.cds.caltech.edu/~mhucka/).)  Adding additional notes here about the history of the project can make it more interesting and compelling.
+Team
+-----
 
+Show off the members of the project, where newbies can go to for support and just a general thanks for support
 
-Acknowledgments
----------------
+[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+---|---
+[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
 
-If your work was funded by any organization or institution, acknowledge their support here.  In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.  For example, in the process of developing this file, I used not only my own ideas and experiences &ndash; I read many (sometimes contradictory) recommendations for README files and examined real READMEs in actual use, and tried to distill the best ideas into the result you see here.  Sources included the following:
-
-* http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
-* https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project
-* https://thoughtbot.com/blog/how-to-write-a-great-readme
-* http://jonathanpeelle.net/making-a-readme-file
-* https://github.com/noffle/art-of-readme
-* https://github.com/noffle/common-readme
-* https://github.com/RichardLitt/standard-readme
-* https://github.com/jehna/readme-best-practices
-* https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-* https://github.com/matiassingers/awesome-readme
-* https://github.com/cfpb/open-source-project-template
-* https://github.com/davidbgk/open-source-template/
-* https://www.makeareadme.com
-* https://github.com/lappleapple/feedmereadmes
-* https://github.com/badges/shields
