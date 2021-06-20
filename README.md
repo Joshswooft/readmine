@@ -12,6 +12,7 @@ Table of contents
 -----------------
 
 * [Description](#description)
+* [Features](#features)
 * [Badges](#badges)
 * [Tech stack](#tech-stack)
 * [Future Tech stack](#future-tech-stack)
@@ -32,6 +33,11 @@ Description
 This single-file repository consists of a README file in Markdown format, and is meant to provide a template for README files as well an illustration of what the README file can be expected to look like.  The structure of this file is based on examining many examples and recommendations for README files, as well as this author's own experiences of creating many open-source projects and repositories over three decades.
 
 The [Description](#description) section &ndash; which you are presently reading &ndash; should provide background for your software project, a brief explanation of what the project is about, and optionally, pointers to resources that can help orient readers.  (Some README recommendations go straight to installation instructions as the first section, but in my opinion, introductions are important for readers who are not familiar with your technical area.)  Ideally, this section should be short.
+
+Features
+--------
+
+The [Features](#Features) section outlines the key functionality of your project. It's a good idea here to have a gif/video/screenshot of the work. Links to demos can also suffice. 
 
 Badges
 -------
@@ -133,7 +139,7 @@ Team
 
 Show off the members of the project, where newbies can go to for support and just a general thanks for support
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+[![Josh](https://avatars.githubusercontent.com/u/60711758?v=4)](https://github.com/Joshswooft)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+[Josh](https://github.com/Joshswooft) |[Quandl](https://www.quandl.com)
 
