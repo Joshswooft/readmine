@@ -11,23 +11,44 @@ This is an example README file demonstrating a suggested README file structure f
 Table of contents
 -----------------
 
-* [Introduction](#introduction)
+* [Description](#description)
+* [Badges](#badges)
+* [Tech stack](#tech-stack)
+* [Future Tech stack](#future-tech-stack)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Known issues and limitations](#known-issues-and-limitations)
 * [Getting help](#getting-help)
 * [Contributing](#contributing)
+* [Roadmap](#roadmap)
 * [License](#license)
 * [Authors and history](#authors-and-history)
 * [Acknowledgments](#acknowledgments)
 
 
-Introduction
+Description
 ------------
 
 This single-file repository consists of a README file in Markdown format, and is meant to provide a template for README files as well an illustration of what the README file can be expected to look like.  The structure of this file is based on examining many examples and recommendations for README files, as well as this author's own experiences of creating many open-source projects and repositories over three decades.
 
-The [Introduction](#introduction) section &ndash; which you are presently reading &ndash; should provide background for your software project, a brief explanation of what the project is about, and optionally, pointers to resources that can help orient readers.  (Some README recommendations go straight to installation instructions as the first section, but in my opinion, introductions are important for readers who are not familiar with your technical area.)  Ideally, this section should be short.
+The [Description](#description) section &ndash; which you are presently reading &ndash; should provide background for your software project, a brief explanation of what the project is about, and optionally, pointers to resources that can help orient readers.  (Some README recommendations go straight to installation instructions as the first section, but in my opinion, introductions are important for readers who are not familiar with your technical area.)  Ideally, this section should be short.
+
+Badges
+-------
+
+Badges are used to show useful information about a project at a glance. This can cover metrics about the build status, whether the project is using any code formatters and tooling version info. If your project is a web application then a list of badges showing which browsers you are targeting can be useful for contributors. 
+
+
+Tech Stack
+----------
+
+This section often explains the technology that comprises of your project. A table full of links to key libraries/tools used could be used to showcase this.
+
+
+Future Tech Stack
+-----------------
+
+Some projects will be migrating from one tool or process to another. It's important to tell this to others who plan to contribute to your project so they know where the team is heading and not to make new features with the tech you are trying to move away from.
 
 
 Installation
@@ -75,12 +96,18 @@ The [License](#license) section should state any copyright asserted on the proje
 
 Some projects need to communicate additional information to users and can benefit from additional sections in the README file.  It's difficult to give specific instructions &ndash; a lot depends on your software, your intended audience, etc.  Use your judgment and ask for feedback from users or colleagues to help figure out what else is worth explaining.
 
+If the additional options are too much then this could be covered in another form of documentation e.g. swagger
+
 
 Known issues and limitations
 ----------------------------
 
 In this section, summarize any notable issues and/or limitations of your software.  If none are known yet, this section can be omitted (and don't forget to remove the corresponding entry in the [Table of Contents](#table-of-contents) too); alternatively, you can leave this section in and write something along the lines of "none are known at this time".
 
+Roadmap
+-------
+
+Show readers where you intend to lead the project. Often an image or a link to an external roadmap tool is used. 
 
 Getting help
 ------------
@@ -91,7 +118,7 @@ Inform readers of how they can contact you, or at least how they can report prob
 Contributing
 ------------
 
-Mention how people can offer contributions, and point them to your guidelines for contributing.
+Mention how people can offer contributions, and point them to your guidelines for contributing. It's common to use a seperate `CONTRIBUTING.md` file for this.
 
 
 License
